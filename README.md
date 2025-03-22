@@ -1,6 +1,6 @@
 # project-4_assignments
 
-## 1️⃣ Introduction to Python (00_intro_python)
+## 00_intro_python
 
 📄 **Project (01_add_two_nums):** (https://colab.research.google.com/drive/1n9NJjPFAnjjNffqKKn2ISQMWsgK5IoGn?usp=drive_link)
 
@@ -13,5 +13,11 @@
 📄 **Project (05_triangle_perimeter):** (https://colab.research.google.com/drive/1wIjaa5JYg1SIru76bjVZiEyVxDk85Yxi?usp=drive_link)
 
 📄 **Project (06_square_number):** (https://colab.research.google.com/drive/1uQ9ptj7k9xOWWbq3wGzUUhEkj0SEWQ_R?usp=drive_link)
+
+
+## 01_expressions
+
+📄 **Project (01_dicesimulator):** (https://colab.research.google.com/drive/1a1cDATrzS8hkNv7ZUUORycMdftaIMC_c?usp=drive_link)
+
 
 More projects coming soon... 🚀
