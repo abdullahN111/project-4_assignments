@@ -21,5 +21,11 @@
 
 📄 **Project (02_e=mc2):** (https://colab.research.google.com/drive/1qkNKTyY5cW2LHCIU7y_PKnvO3K-sreoY?usp=sharing)
 
+📄 **Project (03_feet_to_inches):** (https://colab.research.google.com/drive/1GWlwASAi5TKI3tevOeWlYFkNVYfZ9JqB?usp=sharing)
+
+📄 **Project (04_pythagorean_theorem):** (https://colab.research.google.com/drive/1d0I54KnBQbimSnCnGDcF-2MSoD-2IUjy?usp=sharing)
+
+📄 **Project (05_remainder_division):** (https://colab.research.google.com/drive/1fvn_2-oKyj3vR7306HCHIMGBDBB9jJp5?usp=sharing)
+
 
 More projects coming soon... 🚀
