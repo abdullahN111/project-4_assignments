@@ -19,5 +19,7 @@
 
 📄 **Project (01_dicesimulator):** (https://colab.research.google.com/drive/1a1cDATrzS8hkNv7ZUUORycMdftaIMC_c?usp=drive_link)
 
+📄 **Project (02_e=mc2):** (https://colab.research.google.com/drive/1qkNKTyY5cW2LHCIU7y_PKnvO3K-sreoY?usp=sharing)
+
 
 More projects coming soon... 🚀
