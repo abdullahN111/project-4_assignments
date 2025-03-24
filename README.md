@@ -10,5 +10,8 @@
 📄 **Project Files:** (https://drive.google.com/drive/folders/1VXvCXtZBZqjf2kCgS66dmbU_N4RJESYq?usp=drive_link)
 
 
+## 02_lists
+
+📄 **Project Files:** (https://drive.google.com/drive/folders/1qPmiSqsXvUpD07x93-QaunLEOzbZjuRz?usp=sharing)
 
 More projects coming soon... 🚀
