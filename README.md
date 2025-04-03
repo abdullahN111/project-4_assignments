@@ -19,4 +19,15 @@
 
 📄 **Project Files:** (https://drive.google.com/drive/folders/1D9dL0t1xbuAHmEB6J8QUAocfdMl959Ul?usp=sharing)
 
+
+## 04_dictionaries
+
+📄 **Project Files:** (https://drive.google.com/drive/folders/1F9EW7VWoO627NEdDXC2E3OWDmBEIlOrY?usp=sharing)
+
+
+## 05_loops_control_flow
+
+📄 **Project Files:** (https://drive.google.com/drive/folders/1tzRuiq3AZKAPue19uDs-NVUFTsDgRils?usp=drive_link)
+
+
 More projects coming soon... 🚀
