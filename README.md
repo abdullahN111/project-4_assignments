@@ -45,9 +45,16 @@
 
 
 ## online_class_projects
+
 ## 01_basics
 
 📄 **Project Files:** (https://drive.google.com/drive/folders/1Qo7Rg23OrM_apXwyzNv_6OsDYDTkGn9n?usp=sharing)
+
+
+## 02_intermediate
+
+📄 **Project Files:** (https://drive.google.com/drive/folders/1gkvqITOr1CW09rRJNMPLWU4Vx2x_5AvX?usp=drive_link)
+
 
 
 More projects coming soon... 🚀
