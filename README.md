@@ -67,6 +67,3 @@
 📄 **Project Files:** (https://github.com/abdullahN111/projects_to_be_submitted_by_students)
 
 
-1. 11 12 13  
-5. 11 12 13   
-8. 11 12 13
